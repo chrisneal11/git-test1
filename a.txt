@@ -2,3 +2,4 @@
 ! This is line 2.
 ! This is line 3.
 ! End of changes.
+! This is the last line where the merge conflict will happen.
