@@ -2,4 +2,4 @@
 ! This is line 2.
 ! This is line 3.
 ! End of changes.
-! This is the last line where the merge conflict will happen.
+! This is the last line where the merge conflict will happen.  This is a test of the merge conflict.  Test 76, hut hut.
